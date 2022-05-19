@@ -1,7 +1,6 @@
 # A simple ChromeAdBlocker that built with Javascript
 
 
-You can add defaultFilter array inside background.js and add any website that you want to block
+you can block as much as you could mnay adds by just adding them iside url array that inside background.js
 
 
-or you can add them isde url array like I did
