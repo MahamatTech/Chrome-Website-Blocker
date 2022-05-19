@@ -1,6 +1,6 @@
 # A simple ChromeAdBlocker that built with Javascript
 
 
-you can block as much as you could mnay adds by just adding them iside url array that inside background.js
+you can block many ads as much as you could  by just adding them inside url array that you will find inside background.js file
 
 
