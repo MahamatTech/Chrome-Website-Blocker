@@ -7,7 +7,7 @@ You can use it in any browser extension
 
 # How to load the extension
 
-1. git clone  https://github.com/MahamatTech/CatSearch.git
+1. git clone  https://github.com/MahamatTech/ChromeAdBlocker.git
 2. Got to chrome ://extension and load ChromeAdBlocker
 3. Enable the extension and pin the extension icon
 
